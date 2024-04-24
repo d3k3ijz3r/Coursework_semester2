@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieCollection>
+    <!-- List of Movies -->
+    <Movie>
+        <Title>X-Men</Title>
+        <Author>Bryan Singer</Author>
+        <PublicationYear>2000</PublicationYear>
+        <Description>
+            In a world filled with hate and prejudice, they are feared by those who cannot accept their differences. Led by Xavier the X-Men fight to protect a world that fears them. They are locked in a battle with former colleague and friend, Magneto who believes humans and mutants should never co-exist.
+        </Description>
+    </Movie>
+
+    <Movie>
+        <Title>Spider-Man: No Way Home</Title>
+        <Author>Jon Watts</Author>
+        <PublicationYear>2021</PublicationYear>
+        <Description>
+            With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.
+        </Description>
+    </Movie>
+
+    <Movie>
+        <Title>Tron: Legacy</Title>
+        <Author>Joseph kosinkski</Author>
+        <PublicationYear>2010</PublicationYear>
+        <Description>
+            The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's corrupted creation and a unique ally who was born inside the digital world.
+        </Description>
+    </Movie>
+
+    <!-- Movie Review -->
+    <Movie>
+        <Title>Tron: Legacy</Title>
+        <Author>Joseph kosinksi</Author>
+        <PublicationYear>2010</PublicationYear>
+        <Description>
+            <![CDATA[
+            <p>This film is the best example of "style over substance", but wow, what substance. It has some of the best production design and soundtrack I have ever witnessed. Visually and aurally speaking, I would even call it a masterpiece. It is like no other techno-futuristic cyberspace I have ever seen depicted. However, it is let down by a dull main actor and an unpolished story that didn't fully convince me.</p>
+
+            <p>Everything about this film works. The visuals, writing, acting, everything. There are very few wrong things I can find with Tron, especially the soundtrack which is timeless even almost a decade later. I still remember watching this film in theaters and not regretting it at all. I highly recommend this film for fans of anything quality. From the pacing to the cinematography this film is astoundingly well made, and truly deserves more recognition. It is timeless in every meaning of the word.</p>
+
+            <p>Even after all these years this movie still gets me. Amazing visuals and possibly one the best soundtracks on a movie ever. A highly underrated movie.</p>
+            ]]>
+        </Description>
+    </Movie>
+</MovieCollection>
